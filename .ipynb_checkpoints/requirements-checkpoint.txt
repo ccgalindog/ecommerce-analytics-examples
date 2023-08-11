@@ -4,3 +4,5 @@ nose
 pinocchio
 coverage
 pandas-profiling
+nltk
+transformers
